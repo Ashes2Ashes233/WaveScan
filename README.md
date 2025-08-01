@@ -1,6 +1,6 @@
 # WaveScan
 
-WaveScan is a desktop application designed to connect to Keysight's X-Series spectrum analyzers. It uses high-frequency polling to collect peak frequencies of devices within specific frequency bands in real time and performs statistical analysis on this massive amount of data, helping engineers quickly and accurately determine the target device's true operating frequency.\
+WaveScan is a desktop application designed to connect to Keysight's X-Series spectrum analyzers. It uses high-frequency polling to collect peak frequencies of devices within specific frequency bands in real time and performs statistical analysis on this massive amount of data, helping engineers quickly and accurately determine the target device's true operating frequency.
 
 **Key Features**
 
